@@ -1,0 +1,96 @@
+Character(D, Dawn, color=blue, image=Dawn)
+Character(j, Judge, color=blue, image=Dawn)
+Character(J, Jennifer, color=blue, image=Dawn)
+Character(L, Leon, color=blue, image=Dawn)
+Character(G, Gallery, color=blue, image=Dawn)
+Character(C, Console)
+label start
+	show Judge_Bench_withJudge with Fade
+	j ""gavel bang" Silence! Prosecutor Louditt..please give your opening statement. 
+	j "And please, refrain from using any unnecessary language
+	show Prosecutor_Bench_withLeon with Fade
+	L "Yes of course, YOUR HONOR. The YOUR HONOR
+	show Defense_Bench_withDawnandJen with Fade
+	D "Do..I have to give one of those two?
+	J "Wow..you really had no clue huh..
+	D "Please explain. Now!
+	J "The prosecution is about to give his opening statement, and then afterwards you will give yours! 
+	J "Since you and I know NOTHING about what actually happened in this case, we should listen EXTREMELY closely to what he says,
+	J "so that we can, at least, pretend to sound like we know what we are talking about. 
+	D "Right..
+	J "I will look up whatever gossip is going around, to try and gather some sense of what is happening…you pay attention!
+	D "Okay..(I can do this. This is what I yelled my way into. Just have to..pay attention. No big deal, that is what school has prepared me for right? Listening to some jack-off mutter on and on, 
+	D "and being able to save the day when they mess up. ..Breathe.)
+	show Prosecutor_Bench_withLeon with Fade
+	L "On the night of April 20th, of this fine year, our victim, Luvee Min, was stabbed to death in the chest, resulting in her death. In other words, she was murdered in the first degree! 
+	L "Luvee Min was a rising sophomore at Varyoke University, with passions of becoming a chemist, 
+	L "she had recently gone through an apparently harsh breakup with her lover, Emily Maschera, she was in quite a vulnerable state. It was 1AM that night, 
+	L "and she had been sitting on a bench by her class building, for unknown reasons, perhaps she went on a walk to clear her head. 
+	L "Perhaps she was waiting for someone. But we shall never know, seeing as she was stabbed. The murder weapon, this extra large chef’s knife, 
+	L "plunged directly into her already broken heart, killing her right instantly. Police were alerted by a nearby emergency alarm, and when they arrived, 
+	L "(in less than 30 seconds mind you) they found our defendant, BRYANT Sprint waiting there. Seemingly overwhelmed with the guilt of what he had just done. 
+	L "But feeling guilty does not pardon you from this crime, his fingerprints were on that murder weapon! He was at the scene of the crime! 
+	L "And through these proceedings I will prove to you how he, with no shadow of a doubt, is the perpetrator of this heinous crime. Thank you.
+	show Judge_Bench_withJudge with Fade
+	j "Thank you Prosecutor. That will do, but please, cut back on your, flowered language. I do not care how poetic you feel you are.
+	show Prosecutor_Bench_withLeon with Fade
+	L "I will try, your honor.
+	show Defense_Bench_withDawnandJen with Fade
+	D "Um.. I am starting to have some doubts..
+	J "I was only half listening, but yeah…it sounds like there is, a lot going against him….but you are still going to do it are not you?
+	D "(He just…does not look like the type….I cannot believe, that someone who is that terrified....could do this..)
+	J "While you reflect on your life choices, I will let you know that all I could find is that there was apparently some drama between the defendant and the victim, 
+	J "that they were, dating. And her previously lover, did NOT like that. 
+	D "Huh..interesting. (Previous lover…he did mention something about a harsh breakup did not he?)
+	show Judge_Bench_withJudge with Fade
+	j "slams gavel Okay, Miss Evermore. Please give your opening statement to the court.
+	show Defense_Bench_withDawnandJen with Fade
+	D "I-right away your honor!
+	J "You got this Dawn! 
+	C "Click on the Mind Menu Above to make your choice!
+	D "The defendant, BRYANT Sprint
+	D "The defendant, BRYANT Sprint..yup, that is his name alright..) Is not guilty your honor! Because..A reason…a reason….there has to be something..)
+	C "Click on the Mind Menu Above to make your choice!
+	D "Because he was still at the scene of the crime
+	D "..(oh, wait, that is right. Why would he still..be there!) Because he was still at the scene of the crime! That fact alone will shift the shadow of doubt back to it is, 
+	D "doubting (god I am sounding like him) If you had been foolish enough to stab someone, 
+	D "and you felt this overwhelming guilt the prosecution claims, would you not, run away? That in itself should cast doubt.. in addition..(that does not sound like enough.. 
+	D "there is probably.. something else..)
+	C "Click on the Mind Menu Above to make your choice!
+	D "The location of the murder
+	D "(He said it was just…out in the open?) As this murder has been presented to us so far, it would paint our defendant as some kind of, thoughtful killer, 
+	D "who had been thinking to do this for a while now,
+	J "whispers The word you’re looking for is “premeditated”
+	D "As if this was a premeditated crime! But, I ask you, why would he choose this random bench of all places, where there could be so many witnesses! And such easy police access…I say..
+	D "in all likelihood.. (Um…)
+	C "Click on the Mind Menu Above to make your choice!
+	D "He was framed!
+	D "(That look.. that look of helplessness. That look…it only screams one thing. “I did not do it” And if he did not..then there is only one thing that makes sense.) slaps her knee He was framed! Our poor defendant, was out, 
+	D "on a walk on his own perhaps, and just happened to stumble upon a dead body! One with a knife sticking out of it! Would you not be shocked! And then to all the sudden hear police sirens! Of course you would be left speechless,
+	D "and with a struck look on your face, one which our prosecution has mistaken for that of guilt, no, it is merely fear. Not fear from being caught, fear that he has been set up. ..The defense! Will prove. They will prove! ..that he, 
+	D "did NOT do it! And was merely a victim of being in the wrong place, at the wrong time! ..thank you.. your.. honor....
+	J "Well..that could of gone worse.
+	show Judge_Bench_withJudge with Fade
+	j "Thank you, Miss Evermore.. hat was certainly the most…unique opening statement I have ever heard..
+	show Prosecutor_Bench_withLeon with Fade
+	L "I’ve never heard someone pause so frequently, it is almost like…you are not confi-
+	show Judge_Bench_withJudge with Fade
+	j "glares
+	show Prosecutor_Bench_withLeon with Fade
+	L "confi.. confi.. confided! You haven’t confided with your client at all, almost like you just met. Which….you did. smiles at judge
+	show Judge_Bench_withJudge with Fade
+	j "Ugh.. in any case. Prosecutor Louditt..please begin your case against the defendant.
+	show Defense_Bench_withDawnandJen with Fade
+	J "Go DAWN! She comes out of the shadows of doubt, and will shine it all away, only leaving the truth! Like a new day, she will forever save the day!!!!
+	D "What are you-
+	J "Hyping up the crowd!
+	G "Huh.. she probably doesn’t know a single thing about this case….and yet, here she is. And she’s not, completely failing! Maybe she’s one of those types that can process information quickly. You think she even has her own office? 
+	G "Or she just does stunts like this…how have we not heard of her before?
+	D "Huh…they kind of.. believe in me?
+	J "Don’t you believe in you?
+	D "Um.. I.. (Huh..this feeling.. I believe in, the defendant. ..I can.. save him!)
+	show goodEnding_Judge_Bench_withJudge with Fade
+	j "Well Ms. Evermore this court may have underestimated you.
+	show goodGameOver with Fade
+	C "Please click the gear in the upper left corner to return to the main menu.
+end

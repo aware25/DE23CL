@@ -1,0 +1,4 @@
+Character(C, Console)
+	show badGameOver with Fade
+	C "Please click the gear in the upper left corner to return to the main menu.
+end

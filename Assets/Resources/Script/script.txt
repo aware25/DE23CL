@@ -1,0 +1,12 @@
+Character(D, Dawn_Evermore, color=blue, image=Dawn)
+label start
+	show bobvneil with Fade
+	D "this is some text
+	show desk_menu with Fade
+	D "this is some more text
+	show bobvneil with Fade
+	D "this is even more text
+	screen bobvneil with Fade
+	clrscr
+	jump start
+end
